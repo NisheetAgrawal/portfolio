@@ -1,0 +1,37 @@
+IMAGE UPLOAD INSTRUCTIONS
+
+I've noticed that only 2 of your project images are displaying correctly. This is because the server is having trouble with spaces and special characters in the filenames.
+
+Please follow these steps to fix the image issues:
+
+1. Create a new folder structure in your project:
+   - Create a folder called "images/projects_fixed" in your portfolio_site directory
+
+2. Upload your project images with these simpler filenames:
+   - For Chatbot project: 
+     Upload to: images/projects_fixed/chatbot.png
+   
+   - For Business 360 Dashboard (main image): 
+     Upload to: images/projects_fixed/business360.jpeg
+   
+   - For Business 360 Dashboard (thumbnail 1): 
+     Upload to: images/projects_fixed/business360_detail1.jpeg
+   
+   - For Business 360 Dashboard (thumbnail 2): 
+     Upload to: images/projects_fixed/business360_detail2.jpeg
+   
+   - For Sales Insights: 
+     Upload to: images/projects_fixed/sales_insights.jpeg
+   
+   - For P&L Report: 
+     Upload to: images/projects_fixed/pl_report.png
+   
+   - For Real Estate Price Prediction: 
+     Upload to: images/projects_fixed/realestate.png
+   
+   - For Brewdog Beer Analysis: 
+     Upload to: images/projects_fixed/brewdog.png
+
+3. After uploading all images, let me know and I'll update your HTML to use these new image paths.
+
+Note: The profile image seems to be working correctly, so we don't need to change that one. 
