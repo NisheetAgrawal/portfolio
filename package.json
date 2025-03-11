@@ -1,0 +1,29 @@
+{
+  "name": "nisheet-agrawal-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Nisheet Agrawal - Data Scientist & Business Analyst",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "portfolio",
+    "data-scientist",
+    "business-analyst",
+    "nisheet-agrawal"
+  ],
+  "author": "Nisheet Agrawal",
+  "license": "MIT",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
