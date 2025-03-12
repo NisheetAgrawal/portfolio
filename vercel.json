@@ -1,15 +1,1 @@
-{
-  "version": 2,
-  "builds": [
-    {
-      "src": "server.js",
-      "use": "@vercel/node"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "server.js"
-    }
-  ]
-} 
+{"version":2,"builds":[{"src":"server.js","use":"@vercel/node"}],"routes":[{"src":"/(.*)","dest":"server.js","headers":{"cache-control":"no-cache, no-store, must-revalidate","pragma":"no-cache","expires":"0"}}],"github":{"silent":false},"cleanUrls":true}
